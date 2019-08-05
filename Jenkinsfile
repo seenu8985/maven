@@ -3,7 +3,7 @@ node('master')
     stage('ContinuousDownload')
     {
 
-        git 'https://hai this is seenu maven.git'
+        git 'https://hai this is seenufjfksnfjsdkddnkjdnkj  dnjsjdk maven.git'
     
 
  }   
